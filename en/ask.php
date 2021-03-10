@@ -29,7 +29,11 @@ return [
             "To get top inviters run /top",
         ]),
 
-        "us_citizen" => "Sorry. Free TON cannot distribute TON Crystals to US citizens or US entities.",
+        "limit" => implode("\n", [
+            "🚫 Sorry. You reached the airdrop limit for a single user.",
+            "TON Crystals received: 💎 :received",
+            "Current airdrop limit: 💎 :limit",
+        ]),
 
         "empty" => implode("\n", [
             "🚫 Sorry. The giver is empty.",
