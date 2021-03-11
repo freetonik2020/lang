@@ -1,6 +1,10 @@
 <?php
 
 return [
+    "deploying" => implode("\n", [
+        "Deploying new TON Surf compatible wallet...",
+    ]),
+
     "deployed" => implode("\n", [
         "New wallet successfully deployed.",
     ]),
