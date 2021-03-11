@@ -2,7 +2,7 @@
 
 return [
     'command' => implode("\n", [
-        '🙋',
+        '❔',
         ' About',
     ]),
 
