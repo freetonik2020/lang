@@ -12,6 +12,6 @@ return [
         '/send Free TON Crystals',
         '/request payment',
         '/exchange Free TON Crystals',
-        'And /more',
+        '/staking is coming soon',
     ]),
 ];
