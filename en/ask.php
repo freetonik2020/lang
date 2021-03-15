@@ -23,6 +23,7 @@ return [
             "🚫 To get more TON Crystals you have to earn invitation score.",
             "Score earned: 🔢 :score",
             "TON Crystals received: 💎 :received",
+            "Score needed: 🔢 :needed",
             "",
             "To invite more people run /invite",
             "To get your invitation stats run /stats",
