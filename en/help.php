@@ -25,4 +25,6 @@ return [
         "/help - this help message",
         "/policy - privacy policy",
     ]),
+
+    "user_guide" => "https://telegra.ph/",
 ];
